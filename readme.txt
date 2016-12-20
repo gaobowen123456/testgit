@@ -8,4 +8,7 @@
 
 jajajajaj
 
+<<<<<<< HEAD
 hello
+=======
+
